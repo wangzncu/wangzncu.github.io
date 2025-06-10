@@ -86,15 +86,15 @@
     - year: 2020
       items:
         - Ph.D. Scholarship in NTNU funded by the Norwegian Research Council and industry partners
-        - Granted: NOK 500,000 annually
+        - Granted NOK 500,000 annually
     - year: 2023
       items:
         - Norwegian Shipowners' Association Fund at NTNU
-        - Granted: NOK 13,000
+        - Granted NOK 13,000
     - year: 2024
       items:
         - Norwegian Shipowners' Association Fund at NTNU
-        - Granted: NOK 10,000
+        - Granted NOK 10,000
 
 - title: Academic Interests
   type: nested_list
