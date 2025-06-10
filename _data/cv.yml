@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Xintong Wang
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th April 1996
     - name: Languages
-      value: English, German
+      value: English (C1/C2), Chinese (C1/C2), Norwegian (B1/B2)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Doctor of Philosophy
+      institution: Nowergian University of Science and Technology (NTNU), Trondheim, Norway
+      year: 2025
       description:
         - Description 1.
         - Description 2.
@@ -21,19 +21,31 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master in Marine Technology
+      institution: NTNU, Trondheim, Norway
+      year: 2020
       description:
         - Description 1.
         - Description 2.
-
+    - title: Bachelor of Engineering in Naval Architecture and Ocean Engineering
+      institution: Tianjin University (TJU), Tianjin, China
+      year: 2018
+      description:
+        - Description 1.
+        - Description 2.
+    - title: Bachelor of Management in Engineering Management (Minored)
+      institution: TJU, Tianjin, China
+      year: 2018
+      description:
+        - Description 1.
+        - Description 2.
+        
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Ph.D. researcher (Stipendiat)
+      institution: Department of Marine Technology, NTNU, Trondheim, Norway
+      year: Oct. 2020 - Jun. 2025
       description:
         - Description 1.
         - Description 2.
@@ -41,9 +53,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Research Assiatant
+      institution: Department of Marine Technology, NTNU, Trondheim, Norway
+      year: Jun. 2020 - Oct. 2020
       description:
         - Description 1.
         - Description 2.
@@ -68,16 +80,21 @@
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Scholarships & Fundings
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Ph.D. Scholarship in NTNU funded by the Norwegian Research Council and industry partners
+        - Granted: NOK 500,000 annually
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Norwegian Shipowners' Association Fund at NTNU
+        - Granted: NOK 13,000
+    - year: 2024
+      items:
+        - Norwegian Shipowners' Association Fund at NTNU
+        - Granted: NOK 10,000
 
 - title: Academic Interests
   type: nested_list
@@ -92,6 +109,6 @@
         - Description 2.
 
 - title: Other Interests
-  type: list
+  type: Soccer, hiking
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
